@@ -1,0 +1,11 @@
+Bienvenue dans la chasse au trésor Git ! 🎉
+
+Pour chaque énigme qui te demandera une réponse, voici la marche à suivre :  
+1️⃣ Commence par ajouter ce fichier dans ton dépôt dans une nouvelle branche nommé b-x (x est l'indice ou vous êtes)
+2️⃣ Modifie le fichier avec ta réponse
+3️⃣ Renvoie-le en validant ton travail avec un message de commit : réponse modifié
+
+Pour avancer, commence par ajouter ce fichier à ton dépôt.  
+Ensuite, cherche le prochain indice dans le fichier **indice2.txt**.  
+
+Amuse-toi bien et bonne chasse ! 🚀
