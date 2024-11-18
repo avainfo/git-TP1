@@ -1,0 +1,7 @@
+Presque à la fin ! 🌟
+
+Maintenant, voici un dernier défi.  
+Cherche le commit où tu as ajouté le deuxième indice sans la réponse et trouve l'heure en utilisant de ce commit.  
+
+Une fois que tu as confirmé, envoie la réponse et va ouvrir recompense.txt.
+
