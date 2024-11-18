@@ -5,3 +5,5 @@ Je suis vide au début, mais une fois rempli, je contiens toute l'histoire.
 Qui suis-je ?"
 
 Une fois trouvé, envoie la réponse et cherche le fichier **indice3.txt**.  
+
+Réponse : fichier .git
